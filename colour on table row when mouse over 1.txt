@@ -1,8 +1,3 @@
-Used for passlist wizard
-
-
-JS coding is on SLP: @DAP_PL_050
-
 <script>
 
 <!--highlight the row when mouse is over src="http://code.jquery.com/jquery-latest.js"> I got it from: http://forums.phpfreaks.com/topic/218691-how-to-highlight-table-row-on-select/ -->
